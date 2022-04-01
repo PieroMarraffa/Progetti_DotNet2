@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\bin\Debug\net6.0\OverloadOperatori.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\bin\Debug\net6.0\OverloadOperatori.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\bin\Debug\net6.0\OverloadOperatori.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\bin\Debug\net6.0\OverloadOperatori.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\bin\Debug\net6.0\OverloadOperatori.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\refint\OverloadOperatori.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\OverloadOperatori.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\OverloadOperatori\obj\Debug\net6.0\ref\OverloadOperatori.dll
