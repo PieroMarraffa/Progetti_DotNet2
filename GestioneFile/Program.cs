@@ -78,22 +78,23 @@
 //    if(fs != null) fs.Close();
 //}
 
-TextWriter tw = File.CreateText("impiegati.csv"); //csv = comma separated values
-tw.WriteLine("ugo; fantozzi; 1200");
-tw.WriteLine("piero; marraffa; 1600");
-tw.Close();
+//TextWriter tw = File.CreateText("impiegati.csv"); //csv = comma separated values
+//tw.WriteLine("ugo; fantozzi; 1200");
+//tw.WriteLine("piero; marraffa; 1600");
+//tw.Close();
 
-TextReader tr = File.OpenText("impiegati.csv");
-string riga = tr.ReadLine();
-while(riga != null)
-{
-    //Console.WriteLine(riga);
-    string[] dati = riga.Split(";");
-    string nome = dati[0];
-    string cognome = dati[1];
-    string stipendio = dati[2];
-    Console.WriteLine($"Nome: {nome}, Cognome: {cognome}, Stipendio: {stipendio}");
-    riga = tr.ReadLine();
-}
-tr.Close();
+//TextReader tr = File.OpenText("impiegati.csv");
+//string riga = tr.ReadLine();
+//while(riga != null)
+//{
+//    //Console.WriteLine(riga);
+//    string[] dati = riga.Split(";");
+//    string nome = dati[0];
+//    string cognome = dati[1];
+//    string stipendio = dati[2];
+//    Console.WriteLine($"Nome: {nome}, Cognome: {cognome}, Stipendio: {stipendio}");
+//    riga = tr.ReadLine();
+//}
+//tr.Close();
+
 

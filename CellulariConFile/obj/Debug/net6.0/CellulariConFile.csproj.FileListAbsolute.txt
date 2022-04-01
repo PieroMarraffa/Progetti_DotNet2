@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\bin\Debug\net6.0\CellulariConFile.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\bin\Debug\net6.0\CellulariConFile.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\bin\Debug\net6.0\CellulariConFile.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\bin\Debug\net6.0\CellulariConFile.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\bin\Debug\net6.0\CellulariConFile.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\refint\CellulariConFile.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\CellulariConFile.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\CellulariConFile\obj\Debug\net6.0\ref\CellulariConFile.dll
