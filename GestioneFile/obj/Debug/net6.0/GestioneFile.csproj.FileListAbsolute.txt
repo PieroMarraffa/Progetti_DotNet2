@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\bin\Debug\net6.0\GestioneFile.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\bin\Debug\net6.0\GestioneFile.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\bin\Debug\net6.0\GestioneFile.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\bin\Debug\net6.0\GestioneFile.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\bin\Debug\net6.0\GestioneFile.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\refint\GestioneFile.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\GestioneFile.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GestioneFile\obj\Debug\net6.0\ref\GestioneFile.dll
