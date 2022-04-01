@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\bin\Debug\net6.0\AsyncEAwait.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\bin\Debug\net6.0\AsyncEAwait.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\bin\Debug\net6.0\AsyncEAwait.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\bin\Debug\net6.0\AsyncEAwait.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\bin\Debug\net6.0\AsyncEAwait.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\refint\AsyncEAwait.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\AsyncEAwait.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\AsyncEAwait\obj\Debug\net6.0\ref\AsyncEAwait.dll
