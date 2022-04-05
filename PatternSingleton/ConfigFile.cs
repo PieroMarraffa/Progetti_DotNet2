@@ -11,6 +11,8 @@ namespace PatternSingleton
 
         //VARIABILE CHE RAPPRESENTA LA CLASSE STESSA
         private static ConfigFile instance = null;
+
+        private static string username, password;
         
 
         //IL COSTRUTTORE VA PRIVATO
@@ -26,6 +28,8 @@ namespace PatternSingleton
                 if (instance == null)
                 {
                     instance = new ConfigFile();
+                    instance.username = "pippo";
+                    instance.password = "1234";
                 }
                 return instance;
             }

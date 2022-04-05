@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\bin\Debug\net6.0\PatternFactory.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\bin\Debug\net6.0\PatternFactory.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\bin\Debug\net6.0\PatternFactory.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\bin\Debug\net6.0\PatternFactory.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\bin\Debug\net6.0\PatternFactory.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\refint\PatternFactory.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\PatternFactory.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternFactory\obj\Debug\net6.0\ref\PatternFactory.dll

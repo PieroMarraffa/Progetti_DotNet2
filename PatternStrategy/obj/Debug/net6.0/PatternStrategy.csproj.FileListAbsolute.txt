@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\bin\Debug\net6.0\PatternStrategy.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\bin\Debug\net6.0\PatternStrategy.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\bin\Debug\net6.0\PatternStrategy.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\bin\Debug\net6.0\PatternStrategy.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\bin\Debug\net6.0\PatternStrategy.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\refint\PatternStrategy.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\PatternStrategy.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternStrategy\obj\Debug\net6.0\ref\PatternStrategy.dll
