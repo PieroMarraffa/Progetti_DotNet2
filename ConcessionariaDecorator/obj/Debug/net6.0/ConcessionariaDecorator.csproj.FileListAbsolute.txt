@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\bin\Debug\net6.0\ConcessionariaDecorator.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\bin\Debug\net6.0\ConcessionariaDecorator.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\bin\Debug\net6.0\ConcessionariaDecorator.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\bin\Debug\net6.0\ConcessionariaDecorator.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\bin\Debug\net6.0\ConcessionariaDecorator.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\refint\ConcessionariaDecorator.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ConcessionariaDecorator.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\ConcessionariaDecorator\obj\Debug\net6.0\ref\ConcessionariaDecorator.dll

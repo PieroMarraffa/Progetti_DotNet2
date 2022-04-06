@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\bin\Debug\net6.0\PatternDecorator.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\bin\Debug\net6.0\PatternDecorator.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\bin\Debug\net6.0\PatternDecorator.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\bin\Debug\net6.0\PatternDecorator.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\bin\Debug\net6.0\PatternDecorator.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\refint\PatternDecorator.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\PatternDecorator.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\PatternDecorator\obj\Debug\net6.0\ref\PatternDecorator.dll
