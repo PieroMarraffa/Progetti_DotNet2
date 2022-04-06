@@ -1,0 +1,15 @@
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\bin\Debug\net6.0\GrandeFratelloObserver.exe
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\bin\Debug\net6.0\GrandeFratelloObserver.deps.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\bin\Debug\net6.0\GrandeFratelloObserver.runtimeconfig.json
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\bin\Debug\net6.0\GrandeFratelloObserver.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\bin\Debug\net6.0\GrandeFratelloObserver.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.csproj.AssemblyReference.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.AssemblyInfoInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.AssemblyInfo.cs
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.csproj.CoreCompileInputs.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\refint\GrandeFratelloObserver.dll
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.pdb
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\GrandeFratelloObserver.genruntimeconfig.cache
+C:\Users\Piero Marraffa\Documents\GitHub\Progetti_DotNet2\GrandeFratelloObserver\obj\Debug\net6.0\ref\GrandeFratelloObserver.dll
