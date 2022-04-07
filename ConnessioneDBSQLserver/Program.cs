@@ -26,13 +26,14 @@ try
     //Console.WriteLine("Autore inserito");
 
     //leggo elementi
-    SqlCommand cmd = sqlConnection.CreateCommand();
-    cmd.CommandText = "select * from Autori";
-    SqlDataReader dr = cmd.ExecuteReader();
-    while (dr.Read())
-    {
-        Console.WriteLine($"{dr["Nome"]}, {dr["Cognome"]}");
-    }
+    //SqlCommand cmd = sqlConnection.CreateCommand();
+    //cmd.CommandText = "select * from Autori";
+    //SqlDataReader dr = cmd.ExecuteReader();
+    //while (dr.Read())
+    //{
+    //    Console.WriteLine($"{dr["Nome"]}, {dr["Cognome"]}");
+    //}
+
 
 }
 catch (Exception ex)
