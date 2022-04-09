@@ -20,6 +20,8 @@ class Program
         //3) scrivo nella console nuget "add-migration Iniziale" 
         //4) scrivo nella console nuget "update-database" per caricare il DB sul server
 
+        //
+
 
         //OGNI VOLTA CHE VADO A FARE UN CAMBIAMENTO DEVO ESEGUIRE UNA MIGRATION E POI ESEGUIRE UN UPDATE-DATABASE
 

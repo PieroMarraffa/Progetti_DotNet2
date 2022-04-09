@@ -11,6 +11,7 @@ namespace SqlServerCodeFirst.Models
     internal class NegozioContext : DbContext
     {
         public DbSet<Prodotto> Prodotti { get; set; }
+        public DbSet<Categoria> Categorie { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder opt)
         {
