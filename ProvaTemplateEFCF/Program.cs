@@ -261,11 +261,13 @@ public class Program
 
     private static void visualizzaTutti()
     {
+        //PER CREARE LE VIEW IN CODE FIRST DEVO CREARE UNA MIGRATION VUOTA E RIEMPIRLA COME 
+        //HO FATTO NELLA MIGRATION VIEW CLIENTI FATTURA
         Console.WriteLine("");
-        //foreach (var l in ctx.VistaFilms)
-        //{
-        //    Console.WriteLine($"Titolo: {l.Titolo}, Anno di Uscita: {l.AnnoUscita}, Attore: {l.NomeAttore} {l.CognomeAttore}, Genere: {l.Genere}"); ;
-        //}
+        foreach (var l in ctx.ViewLibri)
+        {
+            Console.WriteLine($"Titolo: {l.Titolo}, Anno di Uscita: {l.Prezzo}, Autore: {l.NomeAutore} {l.CognomeAutore}, Editore: {l.Editore} {l.SedeEditore}"); ;
+        }
     }
 
     private static void arrivederci()
